@@ -1,8 +1,8 @@
 # Digital Literacy Project
 
-## Name: KUMARI SHIKHA KUSHWAHA
+## Name: PRISHA GABBAD
 
-## Reg No: 25BCE11243
+## Reg No: 25BCY10139
 
 ## Course: CSE0001 Digital Literacy
 
@@ -48,11 +48,12 @@ In this task, I created professional profiles on platforms like GitHub, LinkedIn
 
 * GitHub
 * LinkedIn
-* HackerRank
+* stackoverflow
+* kaggle
 
 **Tasks Performed:**
 
-1. Created and set up profiles on GitHub, LinkedIn, and HackerRank.
+1. Created and set up profiles on GitHub, LinkedIn, stackoverflow and kaggle.
 2. Added basic personal and academic details to each profile.
 3. Took screenshots of all profiles as proof of completion.
 4. Uploaded screenshots to the GitHub repository under the correct folder.
@@ -63,7 +64,7 @@ In this task, I created professional profiles on platforms like GitHub, LinkedIn
 
 In this task, I explored coding and collaboration platforms. I solved a beginner-level problem on HackerRank, which helped me understand basic problem-solving skills. I also created a Google Form quiz on digital literacy and linked it to a response sheet. This task showed how online tools can be used for learning and collaboration.
 
-Google Form Link: https://forms.gle/DdEkLaqycYv68VUt8
+Google Form Link: https://forms.gle/EUV2tahNcMZyuiCj6
 
 **Tools/Platforms Used:**
 
