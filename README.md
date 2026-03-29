@@ -50,10 +50,11 @@ In this task, I created professional profiles on platforms like GitHub, LinkedIn
 * LinkedIn
 * stackoverflow
 * kaggle
+* HackerRank
 
 **Tasks Performed:**
 
-1. Created and set up profiles on GitHub, LinkedIn, stackoverflow and kaggle.
+1. Created and set up profiles on GitHub, LinkedIn, stackoverflow, HackerRank and kaggle.
 2. Added basic personal and academic details to each profile.
 3. Took screenshots of all profiles as proof of completion.
 4. Uploaded screenshots to the GitHub repository under the correct folder.
