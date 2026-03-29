@@ -36,7 +36,6 @@ Tools/Platforms Used:
 
 GitHub
 LinkedIn
-HackerRank
 stack overflow
 kaggle
 Tasks Performed:
